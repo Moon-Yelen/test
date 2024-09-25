@@ -1,4 +1,4 @@
 5주차 강의
 git remote add origin https://github.com/Moon-Yelen/test.git
 
-: )
+: 0
